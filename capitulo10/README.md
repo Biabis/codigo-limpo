@@ -12,7 +12,5 @@ Cada método de uma classe deve manipular uma ou mais variáveis de instância, 
 
 A abordagem de classes pequenas, nomeadas adequadamente e aderindo ao princípio da Responsabilidade Única, promove um design de código mais claro, modular e facilmente mantido.
 
-### Conclusão
-
-De modo simples e direto essas foram as principais partes que achei interessante e uteis para meu dia-a-dia, caso tenha se interessado vale a pena ler o livro para ter o entendimento completo sobre o que é um código limpo. Vale ressaltar também que esse livro é basicamente um apanhado de regras sobre como escrever um código, cabe a você sabe o que usar e se vai usar.
+Assim como arrumar um guarda-roupa, inconscientemente dividimos necessidades por classes e tipos de necessidade. Frio, calor, praia, e tornamos essa divisão obvia exatamnete por estar claro em nossa visão. A classe deve repetir o mesmo em uma leitura. 
 
