@@ -1,2 +1,2 @@
-# Caítulo 2
+# Capítulo 2
 

@@ -1,4 +1,4 @@
-# Caítulo 2
+# Capítulo 2
 
 Já no capítulo 2, o autor vai abordar a importancia de nomes significativos e que demosntrem seu significado.
 
